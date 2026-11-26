@@ -1,0 +1,13 @@
+
+{
+  "geode": "4.0.0",
+  "gd": {
+    "android": "2.2074"
+  },
+  "id": "smartclick.futurefunk",
+  "name": "SmartClick: Future Funk",
+  "version": "0.1.0",
+  "developer": "SmartClick",
+  "description": "Future Funk timing analyzer",
+  "dependencies": {}
+}
